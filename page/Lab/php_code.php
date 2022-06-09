@@ -16,5 +16,3 @@
 		$_SESSION['message'] = "Address saved"; 
 		header('location: index.php');
 	}
-
-// ...
